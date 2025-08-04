@@ -30,7 +30,7 @@ A fully responsive Amazon-style landing page with custom branding and modern UI 
 
 
 ## 🖥️ Live Demo
-[![Live Demo](https://zonara.netlify.app/)
+(https://zonara.netlify.app/)
 
 ## 📝 Learning Outcomes
 
