@@ -1,6 +1,6 @@
 # 🛍️ Zonara - Modern Amazon-Inspired E-Commerce Landing Page
 
-![Project Preview](https://github.com/BharathKumar3308/LANDING-PAGE-MSD---Assignment-1-/blob/main/zonara.png?raw=true)) *[Replace with actual preview image URL]*
+![Project Preview](https://github.com/BharathKumar3308/LANDING-PAGE-MSD---Assignment-1-/blob/main/zonara.png?raw=true)
 
 ## 🚀 Overview
 A fully responsive Amazon-style landing page with custom branding and modern UI elements, built entirely with HTML and CSS (no frameworks). This project demonstrates core frontend development skills while offering a unique twist on the classic e-commerce layout.
